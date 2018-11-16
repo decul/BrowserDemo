@@ -1,0 +1,9 @@
+C:\Backed Up\Visual_apps\BrowserDemo\BrowserDemo\bin\Debug\BrowserDemo.exe.config
+C:\Backed Up\Visual_apps\BrowserDemo\BrowserDemo\bin\Debug\BrowserDemo.exe
+C:\Backed Up\Visual_apps\BrowserDemo\BrowserDemo\bin\Debug\BrowserDemo.pdb
+C:\Backed Up\Visual_apps\BrowserDemo\BrowserDemo\obj\Debug\BrowserDemo.csprojResolveAssemblyReference.cache
+C:\Backed Up\Visual_apps\BrowserDemo\BrowserDemo\obj\Debug\BrowserDemo.Form1.resources
+C:\Backed Up\Visual_apps\BrowserDemo\BrowserDemo\obj\Debug\BrowserDemo.Properties.Resources.resources
+C:\Backed Up\Visual_apps\BrowserDemo\BrowserDemo\obj\Debug\BrowserDemo.csproj.GenerateResource.Cache
+C:\Backed Up\Visual_apps\BrowserDemo\BrowserDemo\obj\Debug\BrowserDemo.exe
+C:\Backed Up\Visual_apps\BrowserDemo\BrowserDemo\obj\Debug\BrowserDemo.pdb
