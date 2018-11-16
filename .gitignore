@@ -294,3 +294,6 @@ __pycache__/
 *.odx.cs
 *.xsd.cs
 TODO WFM.txt
+/BrowserDemo/bin
+/BrowserDemo/obj
+/.vs
